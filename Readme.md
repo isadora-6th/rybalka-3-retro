@@ -1,7 +1,7 @@
 # Retro pack v3
 
-Download: WIP
-Update:
-```
-powershell irm https://raw.githubusercontent.com/isadora-6th/rybalka-3-retro/refs/heads/main/UpdatePack.ps1 | iex
-```
+Download: [YADISK](https://disk.yandex.ru/d/-Lrp7aGo9TVkwg)  
+Update: update.bat  
+Strong update: RESET_PACK.bat  
+
+![](IMG.webp)
