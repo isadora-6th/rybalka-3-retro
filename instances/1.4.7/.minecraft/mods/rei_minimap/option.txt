@@ -1,6 +1,6 @@
 Minimap: Enable
 Render Type: Surface
-Death Point: Disable
+Death Point: Enable
 Auto Update Check: Disable
 Map Shape: Round
 Texture: Rei Minimap
@@ -14,7 +14,7 @@ Filtering: Enable
 Show Coordinates: Type2
 Show Menu Key: Disable
 Font Scale: Gui Scale
-Default Zoom: X1 5
+Default Zoom: X1 0
 Mask Type: Depth
 Update Frequency: Low
 Threading: Enable
