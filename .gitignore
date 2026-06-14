@@ -1,0 +1,22 @@
+/**
+!UpdatePack.ps1
+!update.bat
+!Readme.md
+!RESET_PACK.bat
+!ResetPack.ps1
+!IMG.webp
+!/instances
+!/instances/1.4.7
+!/instances/1.4.7/.minecraft
+!/instances/1.4.7/.minecraft/texturepacks
+!/instances/1.4.7/.minecraft/texturepacks/**
+!/instances/1.4.7/.minecraft/mods
+!/instances/1.4.7/.minecraft/mods/**
+/instances/1.4.7/.minecraft/mods/rei_minimap/Retro Rybalka 3.DIM0.points
+/instances/1.4.7/.minecraft/mods/rei_minimap/option.txt
+!/instances/1.4.7/.minecraft/coremods/
+!/instances/1.4.7/.minecraft/coremods/**
+!/instances/1.4.7/.minecraft/config/
+!/instances/1.4.7/.minecraft/config/**
+!/instances/1.4.7/.minecraft/resources
+!/instances/1.4.7/.minecraft/resources/**
