@@ -8,7 +8,7 @@ Toggle Waypoints Visible: P
 Toggle Waypoints Marker: None
 Toggle Waypoints Dimension: None
 Toggle Entities Radar: None
-Set Waypoint: C
+Set Waypoint: B
 Waypoint List: None
 Zoom In: None
 Zoom Out: None
